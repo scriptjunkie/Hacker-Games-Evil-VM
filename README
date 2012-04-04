@@ -1,0 +1,16 @@
+The Hacker Games
+
+Welcome, welcome! The time has come to select one courageous young hacker for the honor of representing District 12 in the 74th annual Hacker Games! And congratulations, for you have been selected as tribute!
+
+But watch out, as you will find out, some games are more dangerous than others. This system has implemented a number of aggressive anti-hacker measures.
+
+In fact, this VM is downright evil. I am probably legally obligated to tell you that it will try to hack you. So if a calculator or message declaring your pwnedness pops up or shows up on your desktop, you asked for it. But don’t worry, it won’t steal your docs or rm you, it will just demonstrate compromise for the game. 
+
+Unfortunately, I didn’t have the time to add nearly all the things I wanted to, so there are really just a few challenges, a couple of counterhacks, and about 10 memes to conquer. Depending on your skill level, you could pwn (or be pwned) in just a few minutes or in a few hours. So hack it before it hacks you!
+
+No sponsors are necessary, so don’t light yourself on fire. Simply extract the evil VM, start it, and open up http://localhost:3000/ to begin. Now, you can totally cheat since you own the VM, but see if you can beat the challenges without cheating. Then you can go ahead and cheat, which should also be fun – you’re probably comfortable with many physical access attacks involving the hard disk, but this system doesn’t use a hard disk. So enjoy and remember...
+
+May the odds be ever in your favor!
+
+
+-scriptjunkie
